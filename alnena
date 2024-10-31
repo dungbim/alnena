@@ -303,7 +303,7 @@
                         <div class="d-flex justify-content-between align-items-stretch">
                             <!-- Cửa hàng -->
 							<div class="d-flex align-items-center">
-								<a href="Cuahang.html" title="Cửa hàng" class="py-1 align-items-center d-inline-flex btn-top head_svg">
+								<a href="https://dungbim.github.io/C-a-H-ng/" title="Cửa hàng" class="py-1 align-items-center d-inline-flex btn-top head_svg">
 									<span class="b_ico_Cart text-center d-flex justify-content-center align-items-center position-relative">
 										<svg width="32" height="32">
 											<use href="#svg-store-list"></use>
@@ -311,7 +311,6 @@
 									</span>
 									<span class="font-weight-bold ml-2" style="font-size: 18px;">Cửa hàng</span> <!-- Thay đổi ở đây -->
 								</a>
-							
 								<!-- Liên hệ -->
 								<a href="https://alnena.vn/pages/lien-he" title="Liên hệ" class="ml-lg-4 py-1 align-items-center d-inline-flex btn-top head_svg">
 									<span class="b_ico_Cart text-center d-flex justify-content-center align-items-center position-relative">
@@ -373,7 +372,7 @@
                         </a>
                     </li>
                     <li class="level0 cls d-block position-relative not-mega">
-                        <a href="./GioiThieu.html" title="Giới thiệu" style="font-size: 23px;" class="font-weight-bold position-relative d-flex flex-column flex-lg-row justify-content-center justify-content-lg-start align-items-lg-center text-lg-left p-2 py-lg-3 px-lg-3">
+                        <a href="https://dungbim.github.io/gi-i-thi-u/" title="Giới thiệu" style="font-size: 23px;" class="font-weight-bold position-relative d-flex flex-column flex-lg-row justify-content-center justify-content-lg-start align-items-lg-center text-lg-left p-2 py-lg-3 px-lg-3">
                             Giới thiệu
                         </a>
                     </li>
@@ -3491,7 +3490,7 @@ window.HaravanAnalytics.AutoTrack = true;
                         <div class="d-flex justify-content-between align-items-stretch">
                             <!-- Cửa hàng -->
 							<div class="d-flex align-items-center">
-								<a href="Cuahang.html" title="Cửa hàng" class="py-1 align-items-center d-inline-flex btn-top head_svg">
+								<a href="https://dungbim.github.io/C-a-H-ng/" title="Cửa hàng" class="py-1 align-items-center d-inline-flex btn-top head_svg">
 									<span class="b_ico_Cart text-center d-flex justify-content-center align-items-center position-relative">
 										<svg width="32" height="32">
 											<use href="#svg-store-list"></use>
@@ -3561,7 +3560,7 @@ window.HaravanAnalytics.AutoTrack = true;
                         </a>
                     </li>
                     <li class="level0 cls d-block position-relative not-mega">
-                        <a href="./GioiThieu.html" title="Giới thiệu" style="font-size: 23px;" class="font-weight-bold position-relative d-flex flex-column flex-lg-row justify-content-center justify-content-lg-start align-items-lg-center text-lg-left p-2 py-lg-3 px-lg-3">
+                        <a href="https://dungbim.github.io/gi-i-thi-u/" title="Giới thiệu" style="font-size: 23px;" class="font-weight-bold position-relative d-flex flex-column flex-lg-row justify-content-center justify-content-lg-start align-items-lg-center text-lg-left p-2 py-lg-3 px-lg-3">
                             Giới thiệu
                         </a>
                     </li>
